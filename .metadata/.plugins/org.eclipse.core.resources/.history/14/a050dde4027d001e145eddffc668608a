@@ -1,0 +1,5 @@
+package com.message.repositories;
+
+public class UserRepository {
+
+}

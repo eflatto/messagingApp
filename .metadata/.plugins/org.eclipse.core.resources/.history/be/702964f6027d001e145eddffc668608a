@@ -1,0 +1,7 @@
+package com.message.repositories;
+
+import com.message.entities.User;
+
+public class UserRepository extends CrudRepository<User, Integer> {
+
+}

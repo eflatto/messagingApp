@@ -1,0 +1,5 @@
+package com.message.entities;
+
+public class User {
+
+}

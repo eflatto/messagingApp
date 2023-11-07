@@ -1,0 +1,10 @@
+package com.message.repositories;
+
+import com.message.entities.User;
+import org.springframework.data.repository.CrudRepository;
+
+public interface UserRepository extends CrudRepository<User, Integer> {
+	
+	
+
+}
